@@ -1,5 +1,5 @@
 # fiap-bootcamp-vivante
-This repo was created for a hackaton organized by [FIAP](http://fiap.com.br/) university with partnership and sponsorship of [Vivante](https://vivante.com.br/).
+This repo was created for a bootcamp organized by [FIAP](http://fiap.com.br/) university with partnership and sponsorship of [Vivante](https://vivante.com.br/).
 
 ## Outcome
 Our project succeed to be ranked on the Top 3 works solutions that were presented.
